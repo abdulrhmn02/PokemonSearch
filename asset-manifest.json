@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PokemonSearch/static/css/main.165eb941.css",
+    "main.js": "/PokemonSearch/static/js/main.50fd118e.js",
+    "static/js/453.c09a555b.chunk.js": "/PokemonSearch/static/js/453.c09a555b.chunk.js",
+    "index.html": "/PokemonSearch/index.html",
+    "main.165eb941.css.map": "/PokemonSearch/static/css/main.165eb941.css.map",
+    "main.50fd118e.js.map": "/PokemonSearch/static/js/main.50fd118e.js.map",
+    "453.c09a555b.chunk.js.map": "/PokemonSearch/static/js/453.c09a555b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165eb941.css",
+    "static/js/main.50fd118e.js"
+  ]
+}
